@@ -1,21 +1,14 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-03-06T16:01:44-05:00"
+description: my first post and the reason I create this blog 
 ---
 
-This is my first post on my new fake blog! How exciting!
+In a project I joined in one year ago, I learned ReactJS and am very glad to have it in my full stack development skill arsenal. As a developer who owns ReactJS skill and wants to open a blog. It's obviously an easy decision for me to learn and use GatsbyJS. 
 
-I'm sure I'll write a lot more interesting things in the future.
+By the same time being able to express my thoughts clearly by writing is always amazing, the only way I think I can improve my English writing skill is to practice. writing a technology blog sounds like a good plan. 
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Every day I meet all kinds of problems from my consultant job and try my best to solve them. The result of the solutions is very valuable, however, the tools, processes, strategy and retrospective thoughts still have two cents. I would love to find a place to record and share them.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+So as a developer, Hello world!
 
-![Chinese Salty Egg](./salty_egg.jpg)
